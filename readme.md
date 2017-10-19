@@ -4,7 +4,7 @@ A darker, more contrasty, Slack theme.
 
 # Preview
 
-![Screenshot](https://cloud.githubusercontent.com/assets/7691630/24120350/4cbb643e-0d82-11e7-8353-5d4eb65dfd6a.png)
+![Screenshot](https://github.com/PierreBrisorgueil/slack-black-theme/blob/master/screens/001.png?raw=true)
 
 # Installing into Slack
 
@@ -95,8 +95,10 @@ NB: You'll have to do this every time Slack updates.
 
 Here's some example color variations you might like.
 
+Custom sidebar in preferences : #2D2D2D,#2D2D2D,#42B8A5,#FFFFFF,#555555,#FFFFFF,#42B8A5,#F27C55
+
 ## Dark
-![Default](https://cloud.githubusercontent.com/assets/7691630/24120350/4cbb643e-0d82-11e7-8353-5d4eb65dfd6a.png)
+![Dark](https://github.com/PierreBrisorgueil/slack-black-theme/blob/master/screens/001.png?raw=true)
 ```
 --text: #ccc;
 --text-special: #fff;
@@ -105,16 +107,13 @@ Here's some example color variations you might like.
 ```
 
 ## Light
-![One Dark](https://user-images.githubusercontent.com/806101/27455546-826b3d88-5752-11e7-8a6b-87285b90eb3e.png)
+![Light](https://github.com/PierreBrisorgueil/slack-black-theme/blob/master/screens/002.png?raw=true)
 ```
 --text: #000;
 --text-special: #333;
 --background: #fafafa;
 --background-special: #fff;
 ```
-
-# Development
-
 
 # License
 
