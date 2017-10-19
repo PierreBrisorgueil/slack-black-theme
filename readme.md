@@ -1,4 +1,4 @@
-# Slack Black Theme
+# Slack Themes
 
 Slack themes with fonts and colors of apple
 
