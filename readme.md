@@ -29,8 +29,8 @@ document.addEventListener("DOMContentLoaded", function() {
 
    // Fetch our CSS in parallel ahead of time
    const cssPath = 'https://raw.githubusercontent.com/PierreBrisorgueil/slack-black-theme/master/custom.css';
-   //let cssPromise = fetch(cssPath).then(response => response.text());
-   let cssPromise = fetch(cssPath + '?zz=' + Date.now(), {cache: "no-store"}).then(response => response.text());
+   let cssPromise = fetch(cssPath).then(response => response.text());
+   //let cssPromise = fetch(cssPath + '?zz=' + Date.now(), {cache: "no-store"}).then(response => response.text());
 
    let customCustomCSS = `
     :root {
