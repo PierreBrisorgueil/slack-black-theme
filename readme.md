@@ -1,6 +1,6 @@
 # Slack Black Theme
 
-A darker, more contrasty, Slack theme.
+Slack themes with fonts and colors of apple
 
 # Preview
 
